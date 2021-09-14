@@ -1,0 +1,1 @@
+Hello, this is the file which is cloned from git server (github) and edited in the git bash.
